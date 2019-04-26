@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nyelvvizsga", "ConsoleApp9\nyelvvizsga.csproj", "{3F8891E4-017C-4684-ACCB-C77777991E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F8891E4-017C-4684-ACCB-C77777991E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8891E4-017C-4684-ACCB-C77777991E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8891E4-017C-4684-ACCB-C77777991E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8891E4-017C-4684-ACCB-C77777991E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D32605-0F0B-4ABD-BE04-09EAA1E25B62}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+J:\ZARODOLGOZAT\vizsgafeladatok\ConsoleApp9\ConsoleApp9\obj\Debug\nyelvvizsga.csproj.CoreCompileInputs.cache
+J:\ZARODOLGOZAT\vizsgafeladatok\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+J:\ZARODOLGOZAT\vizsgafeladatok\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+J:\ZARODOLGOZAT\vizsgafeladatok\ConsoleApp9\ConsoleApp9\obj\Debug\nyelvvizsga.csprojAssemblyReference.cache
